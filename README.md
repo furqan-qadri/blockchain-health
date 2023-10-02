@@ -4,3 +4,4 @@ a blockchain app to demoonstate how smart contract can help solve the issue of d
 health sector.
 
 Name: HealthBlock
+Tech: PyTeal compiled locally

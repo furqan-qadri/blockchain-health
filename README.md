@@ -4,5 +4,5 @@ a blockchain app to demonstrate how smart contract can help solve the issue of d
 health sector.
 
 Name: HealthBlock
-Tech: PyTeal compiled locally
+Tech: PyTeal compiled locally and online
 
